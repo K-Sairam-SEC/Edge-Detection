@@ -1,45 +1,45 @@
 edge-detection-opencv
-Aim
+## Aim
 To perform edge detection using Sobel, Roberts, Prewitt, Laplacian, and Canny edge detectors.
 
-Software Required
+## Software Required
 Anaconda – Python 3.7
 Jupyter Notebook / VS Code
 OpenCV (cv2)
 NumPy
 Matplotlib
 ⚙️ Algorithm
-Step 1:
+# Step 1:
 Import all the necessary modules for the program.
 
-Step 2:
+# Step 2:
 Load an image using cv2.imread().
 
-Step 3:
+# Step 3:
 Convert the image to grayscale.
 
-Step 4:
+# Step 4:
 Apply Sobel operator using OpenCV to detect edges.
 
-Step 5:
+# Step 5:
 Apply Prewitt operator using custom kernels.
 
-Step 6:
+# Step 6:
 Apply Roberts operator using custom kernels.
 
-Step 7:
+# Step 7:
 Apply Laplacian operator using OpenCV.
 
-Step 8:
+# Step 8:
 Apply Canny edge detector using OpenCV.
 
-Step 9:
+# Step 9:
 Display all edge-detected images for comparison.
 
-Developed By
-Name: ____________________________
-Register No: ______________________
-Output
+# Developed By
+Name: Sairam K
+Register No: 212225240132
+# Output
 Sobel Edge Detector
 Detects edges in horizontal and vertical directions
 Produces gradient-based edge map
